@@ -1,0 +1,4 @@
+C:\Users\Ferzan\Desktop\AI\LCD\simple_cpu_temp\CpuTempMonitor\bin\Release\net10.0\win-x64\publish\CpuTempMonitor.pdb
+C:\Users\Ferzan\Desktop\AI\LCD\simple_cpu_temp\CpuTempMonitor\bin\Release\net10.0\win-x64\publish\MonoPosixHelper.dll
+C:\Users\Ferzan\Desktop\AI\LCD\simple_cpu_temp\CpuTempMonitor\bin\Release\net10.0\win-x64\publish\libMonoPosixHelper.dll
+C:\Users\Ferzan\Desktop\AI\LCD\simple_cpu_temp\CpuTempMonitor\bin\Release\net10.0\win-x64\publish\CpuTempMonitor.exe
